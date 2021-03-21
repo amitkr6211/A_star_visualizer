@@ -4,7 +4,7 @@ Visualization of astar algorithm between a single  src and destination using pyg
 -------------------------------------------------------------
 Steps to run this :
 ->Open your terminal
-->Go in the coreesponding directory.
+->Go in the coressponding directory.
 ->install pygame
     ->sudo apt-get install python3-pygame  
 ->python3 astar.py
